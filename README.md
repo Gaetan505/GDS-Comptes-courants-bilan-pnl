@@ -75,3 +75,8 @@ Développement d’un système de reporting financier automatisé pour un groupe
 
 * **Ajout d’alertes automatisées**  mails automatiques pour notifier des rapprochements.
 
+
+## Gaetan DJAMBISSIE 
+## gaetan.djambissie@gmail.com
+## https://gaetan-portfolio.netlify.app/
+
